@@ -1,0 +1,1 @@
+Every night my smart lock logs one extra entry at 3:33 AM — a fingerprint that matches mine, pressed from inside the apartment while I am asleep in bed. Tonight I waited outside the front door to catch it, and at 3:33 the lock logged my fingerprint from inside, while I was still standing outside.
